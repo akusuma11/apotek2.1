@@ -1,0 +1,14 @@
+body{background:#f4f6f9;font-family:'Segoe UI',sans-serif}
+.sidebar .nav-link{color:#333;border-radius:.4rem;margin-bottom:2px}
+.sidebar .nav-link:hover{background:#198754;color:#fff}
+.sidebar .nav-link i{margin-right:.5rem}
+.card{border:none;box-shadow:0 2px 8px rgba(0,0,0,.05)}
+.stat-card{border-left:4px solid #198754}
+.stat-card.warning{border-left-color:#ffc107}
+.stat-card.danger{border-left-color:#dc3545}
+.stat-card.info{border-left-color:#0dcaf0}
+.table thead{background:#198754;color:#fff}
+.login-wrap{min-height:100vh;display:flex;align-items:center;justify-content:center;
+  background:linear-gradient(135deg,#198754,#0d6efd)}
+.login-card{max-width:420px;width:100%;border-radius:1rem;padding:2rem;background:#fff;
+  box-shadow:0 10px 40px rgba(0,0,0,.2)}
